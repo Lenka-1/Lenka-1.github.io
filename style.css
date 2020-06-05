@@ -5,6 +5,13 @@
   position: relative;
 }
 
+#horniLista {
+  font-family: Arial;
+  font-size: 14px;
+  color:lightskyblue;
+  align-items: center;
+}
+
 nav {
   width: 640px;
   height: 50px;
@@ -49,7 +56,7 @@ img {
 #greeting {
   position: absolute;
   left: 35px;
-  top: 85px;
+  top: 135px;
   color: #222 grey;
   font-family: Abril Fatface;
 }
